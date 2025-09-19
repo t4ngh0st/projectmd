@@ -73,11 +73,11 @@ bahasa pemrograman tingkat tinggi, multi-purpose, dan mudah dibaca yang digunaka
 
 - ### [Komunitas Zig](https://github.com/ziglang/zig/wiki/Community)
 
-### News Python
-- [News Python Official](https://www.python.org/blogs/)
+- ### News Python
+  - [News Python Official](https://www.python.org/blogs/)
 
-### Learning Python
-- [My Source Code](https://github.com/t4ngh0st/source-python)
+- ### Learning Python
+  - [My Source Code](https://github.com/t4ngh0st/source-python)
 
 ---
 
