@@ -10,13 +10,16 @@
 
 ## Daftar isi
 
-- [Pr0gshell](https://github.com/t4ngh0st/pr0gshell)
+- [Pr0gshell](#my-project-pr0gshell)
 - [Gh0st-Coin](https://github.com/t4ngh0st/Gh0st-Coin)
 - [T4n-Manager](https://github.com/t4ngh0st/T4n-Manager)
 - [Sumber](#sumber-zig)
   - [Community](https://github.com/ziglang/zig/wiki/Community)
   - [Introduction Or News](#introduction-or-news)
   - [Learning](#learning-zig)
+ 
+## My Project
+- [Progshell](https://github.com/t4ngh0st/pr0gshell) adalah proyek pembuatan custom shell (lingkungan terminal) yang bisa menjadi alternatif dari shell populer seperti bash, zsh, atau fish.
 
 ## Sumber Zig
 
