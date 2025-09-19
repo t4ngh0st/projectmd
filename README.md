@@ -13,13 +13,12 @@
 - [Pr0gshell](https://github.com/t4ngh0st/pr0gshell)
 - [Gh0st-Coin](https://github.com/t4ngh0st/Gh0st-Coin)
 - [T4n-Manager](https://github.com/t4ngh0st/T4n-Manager)
-- [Sumber](#sumber)
+- [Sumber](#sumber-zig)
   - [Community](https://github.com/ziglang/zig/wiki/Community)
   - [Introduction Or News](#introduction-or-news)
-  - [Learning](#learning)
-- [Contributing](#)
+  - [Learning](#learning-zig)
 
-## Sumber
+## Sumber Zig
 
 - ### [Komunitas Zig](https://github.com/ziglang/zig/wiki/Community)
 
@@ -34,7 +33,7 @@
   [Zig Roadmap 2024 - Andrew Kelley](https://www.youtube.com/watch?v=5eL_LcxwwHg)
   - [Zig Star History](https://star-history.com/#ziglang/zig&Date)
 
-- ### Learning
+- ### Learning Zig
   - [My Source Code](https://github.com/t4ngh0st/source-zig)
   - [Latihan Exercism di Zig](https://exercism.org/tracks/zig)
   - [zig-cookbook 🗒️ Zig cookbook adalah kumpulan program Zig sederhana yang menunjukkan praktik baik untuk menyelesaikan tugas pemrograman umum.](https://github.com/zigcc/zig-cookbook)
@@ -65,20 +64,19 @@ bahasa pemrograman tingkat tinggi, multi-purpose, dan mudah dibaca yang digunaka
 ## Daftar isi
 
 - [T4n-Manpy](https://github.com/t4ngh0st/pr0gshell)
-- [Sumber](#sumber)
+- [Sumber](#sumber-python)
   - [Community](https://www.python.org/community/)
-  - [Introduction Or News](#news)
-  - [Learning](#learning)
-- [Contributing](#)
+  - [Introduction Or News](#news-python)
+  - [Learning](#learning-python)
 
-### Sumber
+### Sumber Python
 
 - ### [Komunitas Zig](https://github.com/ziglang/zig/wiki/Community)
 
-### News
+### News Python
 - [News Python Official](https://www.python.org/blogs/)
 
-### Learning
+### Learning Python
 - [My Source Code](https://github.com/t4ngh0st/source-python)
 
 ---
