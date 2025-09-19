@@ -62,7 +62,7 @@ bahasa pemrograman tingkat tinggi, multi-purpose, dan mudah dibaca yang digunaka
 
 ---
 
-# Hacking ID
-> 🛠️ Hacking Learning Guide & Project List
+# Ethical Hacking ID
+> 🛠️ Ethical Hacking Learning Guide & Project List
 [<img src="https://cdn.pixabay.com/photo/2014/04/03/00/39/guy-fawkes-308973_960_720.png" align="right" width="100">]
-
+[Ethical Hacking](https://www.geeksforgeeks.org/ethical-hacking/ethical-hacking-tutorial/) adalah tindakan simulasi peretasan yang dilakukan dengan izin pemilik sistem untuk menemukan dan mengatasi kerentanan keamanan sebelum dimanfaatkan oleh peretas jahat (black hat hacker).
