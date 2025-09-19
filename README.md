@@ -58,4 +58,11 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Python_logo_%28icon_only%29.svg" align="right" width="100">](https://www.python.org/)
 
 [Python](https://www.python.org/) adalah
-bahasa pemrograman tingkat tinggi, multi-purpose, dan mudah dibaca yang digunakan dalam berbagai bidang seperti pengembangan web, ilmu data, machine learning, dan otomatisasi. 
+bahasa pemrograman tingkat tinggi, multi-purpose, dan mudah dibaca yang digunakan dalam berbagai bidang seperti pengembangan web, ilmu data, machine learning, dan otomatisasi.
+
+---
+
+# Hacking ID
+> 🛠️ Hacking Learning Guide & Project List
+> [<img src="https://www.svgheart.com/wp-content/uploads/2020/10/-267.png" align="right" width="100">]
+
