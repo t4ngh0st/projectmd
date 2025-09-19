@@ -56,3 +56,6 @@
 
 > 🐍 Python Learning Guide & Project Lists
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Python_logo_%28icon_only%29.svg" align="right" width="100">](https://www.python.org/)
+
+[Python](https://www.python.org/) adalah
+bahasa pemrograman tingkat tinggi, multi-purpose, dan mudah dibaca yang digunakan dalam berbagai bidang seperti pengembangan web, ilmu data, machine learning, dan otomatisasi. 
