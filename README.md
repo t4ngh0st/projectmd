@@ -17,7 +17,7 @@
   - [Community](https://github.com/ziglang/zig/wiki/Community)
   - [Introduction Or News](#introduction-or-news)
   - [Learning](#learning)
-- [Contributing](https://github.com/C-BJ/awesome-zig/blob/main/CONTRIBUTING.md)
+- [Contributing](#)
 
 ## Sumber
 
@@ -32,10 +32,10 @@
   [Zig Roadmap 2023 - Andrew Kelley](https://www.youtube.com/watch?v=AqDdWEiSwMM)
   - ![Views](https://img.shields.io/youtube/views/5eL_LcxwwHg)
   [Zig Roadmap 2024 - Andrew Kelley](https://www.youtube.com/watch?v=5eL_LcxwwHg)
-<!-- markdown-link-check-disable-next-line -->
   - [Zig Star History](https://star-history.com/#ziglang/zig&Date)
 
 - ### Learning
+  - [My Source Code](https://github.com/t4ngh0st/source-zig)
   - [Latihan Exercism di Zig](https://exercism.org/tracks/zig)
   - [zig-cookbook 🗒️ Zig cookbook adalah kumpulan program Zig sederhana yang menunjukkan praktik baik untuk menyelesaikan tugas pemrograman umum.](https://github.com/zigcc/zig-cookbook)
   - [zig.guide 🗒️ Repo untuk https://zig.guide content. Pelajari Zig dengan cepat.](https://github.com/Sobeston/zig.guide)
@@ -47,7 +47,6 @@
   [Zig Programming Language Tutorials](https://www.youtube.com/watch?v=fQ08HMZLbCw&list=PLRMNjZSQLv5iGpjubyzlWYcGqiTPVyK3s)
   - [Zig Language Refrensi](https://ziglang.org/documentation/master/)
   - [Zig Standard Library Dokumentasi](https://ziglang.org/documentation/master/std/)
- 
   - [zig-course(zh_CN)](https://zigcc.github.io/zig-course/)
  
 ---
@@ -61,6 +60,27 @@
 [Python](https://www.python.org/) adalah
 bahasa pemrograman tingkat tinggi, multi-purpose, dan mudah dibaca yang digunakan dalam berbagai bidang seperti pengembangan web, ilmu data, machine learning, dan otomatisasi.
 
+**Note 🗒️: ini hanya catatan projek yang gw buat**
+
+## Daftar isi
+
+- [T4n-Manpy](https://github.com/t4ngh0st/pr0gshell)
+- [Sumber](#sumber)
+  - [Community](https://www.python.org/community/)
+  - [Introduction Or News](#news)
+  - [Learning](#learning)
+- [Contributing](#)
+
+### Sumber
+
+- ### [Komunitas Zig](https://github.com/ziglang/zig/wiki/Community)
+
+### News
+- [News Python Official](https://www.python.org/blogs/)
+
+### Learning
+- [My Source Code](https://github.com/t4ngh0st/source-python)
+
 ---
 
 # Ethical Hacking ID
@@ -70,3 +90,9 @@ bahasa pemrograman tingkat tinggi, multi-purpose, dan mudah dibaca yang digunaka
 [<img src="https://cdn.pixabay.com/photo/2014/04/03/00/39/guy-fawkes-308973_960_720.png" align="right" width="100">](https://www.geeksforgeeks.org/ethical-hacking/ethical-hacking-tutorial/)
 
 [Ethical Hacking](https://www.geeksforgeeks.org/ethical-hacking/ethical-hacking-tutorial/) adalah tindakan simulasi peretasan yang dilakukan dengan izin pemilik sistem untuk menemukan dan mengatasi kerentanan keamanan sebelum dimanfaatkan oleh peretas jahat (black hat hacker).
+
+## Daftar isi My Tools
+
+- [DDoS](#)
+- [ETC](#)
+
