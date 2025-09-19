@@ -64,5 +64,5 @@ bahasa pemrograman tingkat tinggi, multi-purpose, dan mudah dibaca yang digunaka
 
 # Hacking ID
 > 🛠️ Hacking Learning Guide & Project List
-[<img src="https://w7.pngwing.com/pngs/978/488/png-transparent-guy-fawkes-mask-anonymous-decal-v-guy-fawkes-mask-sticker-anonymous-free-fictional-character-design-mask-thumbnail.png" align="right" width="100">]
+[<img src="https://cdn.pixabay.com/photo/2014/04/03/00/39/guy-fawkes-308973_960_720.png" align="right" width="100">]
 
