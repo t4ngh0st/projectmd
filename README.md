@@ -71,7 +71,7 @@ bahasa pemrograman tingkat tinggi, multi-purpose, dan mudah dibaca yang digunaka
 
 ## Sumber Python
 
-- ### [Komunitas Zig](https://github.com/ziglang/zig/wiki/Community)
+- ### [Komunitas Python](https://www.python.org/community/)
 
 - ### News Python
   - [News Python Official](https://www.python.org/blogs/)
