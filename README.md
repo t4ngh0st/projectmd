@@ -19,9 +19,9 @@
   - [Learning](#learning-zig)
  
 ## My Project
-- [Progshell](https://github.com/t4ngh0st/pr0gshell) adalah proyek pembuatan custom shell (lingkungan terminal) yang bisa menjadi alternatif dari shell populer seperti bash, zsh, atau fish.
-- [Gh0st Coin](https://github.com/t4ngh0st/Gh0st-Coin) adalah meme coin (cryptocurrency) yang menggabungkan branding unik dengan ekosistem T4n
-- [T4n-Manager](https://github.com/t4ngh0st/T4n-Manager) adalah package manager alternatif untuk Void Linux, dengan inspirasi dari xbps tapi lebih user-friendly yang ditulis dengan zig.
+- [Progshell](https://github.com/t4ngh0st/pr0gshell) adalah proyek pembuatan custom shell (lingkungan terminal) yang bisa menjadi alternatif dari shell populer seperti bash, zsh, atau fish(progress).
+- [Gh0st Coin](https://github.com/t4ngh0st/Gh0st-Coin) adalah meme coin (cryptocurrency) yang menggabungkan branding unik dengan ekosistem T4n(progress).
+- [T4n-Manager](https://github.com/t4ngh0st/T4n-Manager) adalah package manager alternatif untuk Void Linux, dengan inspirasi dari xbps tapi lebih user-friendly yang ditulis dengan zig(progress).
 
 ## Sumber Zig
 
@@ -75,7 +75,7 @@ bahasa pemrograman tingkat tinggi, multi-purpose, dan mudah dibaca yang digunaka
   - [Learning](#learning-python)
 
 ## My Project
-- [T4n-Manpy](https://github.com/t4ngh0st/T4n-Manpy) adalah package manager alternatif untuk Void Linux, dengan inspirasi dari xbps tapi lebih user-friendly yang ditulis dengan python.
+- [T4n-Manpy](https://github.com/t4ngh0st/T4n-Manpy) adalah package manager alternatif untuk Void Linux, dengan inspirasi dari xbps tapi lebih user-friendly yang ditulis dengan python(progress).
 
 ## Sumber Python
 
