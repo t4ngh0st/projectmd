@@ -66,7 +66,7 @@ bahasa pemrograman tingkat tinggi, multi-purpose, dan mudah dibaca yang digunaka
 - [T4n-Manpy](https://github.com/t4ngh0st/pr0gshell)
 - [Sumber](#sumber-python)
   - [Community](https://www.python.org/community/)
-  - [Introduction Or News](#news-python)
+  - [News](#news-python)
   - [Learning](#learning-python)
 
 ### Sumber Python
